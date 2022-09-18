@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alishba-Siddique</h1>
-<h3 align="center">A passionate web developer,has Software Engineering in progress from PUCIT, who aims to be a full stack web developer, loves networking and learning new technologies everyday</h3>
+<h3 align="center">A passionate web developer👩‍💻,has Software Engineering in progress from PUCIT💻, who aims to be a ✨Full-Stack Web Developer✨, Loves networking🤝 and Learning new technologies⚙️ everyday</h3>
 
 - 🔭 I’m currently working on [Homeration](https://alishba-siddique.github.io/Homeration/)
 
