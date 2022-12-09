@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **php, python**
 
-- 👩‍💻 All of my projects are available at ([https://bsef19a007.github.io/](https://alishba-siddique.github.io/portfolio-web/))
+- 👩‍💻 All of my projects are available at ([https://alishba-siddique.github.io/portfolio-web](https://alishba-siddique.github.io/portfolio-web/))
 
 - 📫 How to reach me **alishbasiddique38@gmail.com**
 
