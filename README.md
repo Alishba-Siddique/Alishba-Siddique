@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alishba-Siddique</h1>
 <h3 align="center">A passionate web developer👩‍💻,has Software Engineering in progress from PUCIT💻, who aims to be a ✨Full-Stack Web Developer✨, Loves networking🤝 and Learning new technologies⚙️</h3>
 
-- 🔭 I’m currently working on [Homeration](https://alishba-siddique.github.io/Homeration/)
+- 🔭 I’m currently working on [Alishba-Siddique/Javascript](https://github.com/Alishba-Siddique/Javascript)
 
-- 🌱 I’m currently learning **php, python**
+- 🌱 I’m currently learning **Javascript, React**
 
 - 👩‍💻 All of my projects are available at ([https://alishba-siddique.github.io/portfolio-web](https://alishba-siddique.github.io/portfolio-web/))
 
 - 📫 How to reach me **alishbasiddique38@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1jwUJqhInOun6LPL6zpHhnJRY-rvBkfIj/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1DI1-kQfYnnKnHaK903mucx7UynbVbO0j/view?usp=share_link)
 
 - ⚡ Fun fact **I keep going and celebrating for others until it's my turn...**
 
