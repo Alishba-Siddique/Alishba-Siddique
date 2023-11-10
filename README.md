@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alishbasiddique38@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1DI1-kQfYnnKnHaK903mucx7UynbVbO0j/view?usp=share_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/13gq0eoosD-uMROWS--sWpBjt10ZslfBh/view?usp=sharing)
 
 - ⚡ Fun fact **I keep going and celebrating for others until it's my turn...**
 
