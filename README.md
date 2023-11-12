@@ -5,16 +5,17 @@
 
 - 👩‍💻 All of my projects are available at ([https://alishba-siddique.github.io/portfolio-web](https://alishba-siddique.github.io/portfolio-web/))
 
-- 📫 How to reach me **alishbasiddique38@gmail.com**
+- 📧 How to reach me **alishbasiddique38@gmail.com** **☎ +(92) 3219431478 **
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/13gq0eoosD-uMROWS--sWpBjt10ZslfBh/view?usp=sharing)
 
 - ⚡ Fun fact **I keep going and celebrating for others until it's my turn...**
 
-<h3 align="left">Contact:</h3>
+<h3 align="left">Connect:</h3>
 <p align="left">
 Feel free to reach out!
-<a href="https://linkedin.com/in/alishba-siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alishba siddique" height="30" width="40" /></a>📧 alishbasiddique38@gmail.com | ☎ +(92) 3219431478 | [GitHub](https://github.com/Alishba-Siddique) | [@alishba-siddique](https://github.com/alishba-siddique)
+<br>
+<a href="https://linkedin.com/in/alishba-siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alishba siddique" height="30" width="40" /></a>
 
 Let's code something awesome together! 💻🚀
 </p>
