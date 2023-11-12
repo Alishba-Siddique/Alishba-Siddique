@@ -5,7 +5,7 @@
 
 - 👩‍💻 All of my projects are available at ([https://alishba-siddique.github.io/portfolio-web](https://alishba-siddique.github.io/portfolio-web/))
 
-- 📧 How to reach me **alishbasiddique38@gmail.com** **☎ +(92) 3219431478 **
+- 📧 How to reach me **alishbasiddique38@gmail.com ☎ +(92) 3219431478**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/13gq0eoosD-uMROWS--sWpBjt10ZslfBh/view?usp=sharing)
 
