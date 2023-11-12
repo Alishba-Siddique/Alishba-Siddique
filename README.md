@@ -2,9 +2,6 @@
 <h2 align="center">A passionate Web developer with a degree in Software Engineering from PUCIT.</h2>
 <h2 align="center"> Let's dive into what makes me tick in the coding world!</h2>
 
-- 🔭 I’m currently working on [Alishba-Siddique/Javascript](https://github.com/Alishba-Siddique/Javascript)
-
-- 🌱 I’m currently learning **Javascript, React**
 
 - 👩‍💻 All of my projects are available at ([https://alishba-siddique.github.io/portfolio-web](https://alishba-siddique.github.io/portfolio-web/))
 
