@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alishba-Siddique</h1>
-<h3 align="center">A passionate **web developer** with a degree in **Software Engineering** from PUCIT. Let's dive into what makes me tick in the coding world!</h3>
+<h2 align="center">A passionate Web developer with a degree in Software Engineering from PUCIT. Let's dive into what makes me tick in the coding world!</h2>
 
 - 🔭 I’m currently working on [Alishba-Siddique/Javascript](https://github.com/Alishba-Siddique/Javascript)
 
