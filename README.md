@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I keep going and celebrating for others until it's my turn...**
 
-<h3 align="left">Connect:</h3>
+## 🤝 Connect
 <p align="left">
 Feel free to reach out!
 <br><br>
