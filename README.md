@@ -3,7 +3,7 @@
 <h2 align="center"> Let's dive into what makes me tick in the coding world!</h2>
 
 
-- 👩‍💻 All of my projects are available at ([[https://alishbasiddique.netfly.app/](https://alishbasiddique.netfly.app/))
+- 👩‍💻 All of my projects are available at ([https://alishbasiddique.netfly.app/](https://alishbasiddique.netfly.app/))
 
 - 📧 How to reach me **alishbasiddique38@gmail.com ☎ +(92) 3219431478**
 
