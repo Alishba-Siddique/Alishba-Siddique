@@ -3,7 +3,7 @@
 <h2 align="center"> Let's dive into what makes me tick in the coding world!</h2>
 
 
-- 👩‍💻 All of my projects are available at [([https://alishbasiddique.vercel.app/](https://alishbasiddique.vercel.app/)]
+- 👩‍💻 All of my projects are available at ([https://alishbasiddique.vercel.app/](https://alishbasiddique.vercel.app/)
 
 - 📧 How to reach me **alishbasiddique38@gmail.com ☎ +(92) 3219431478**
 
