@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alishba-Siddique</h1>
-<h2 align="center">I'm a **Software Engineer** from PUCIT with a passion for **AI, web development, and problem-solving**.I love exploring new technologies and building scalable solutions.</h2>
+<h2 align="center">I'm a <b>Software Engineer<b> from PUCIT with a passion for <strong>AI, web development, and problem-solving</strong>.I love exploring new technologies and building scalable solutions.</h2>
 <h2 align="center"> Let's dive into what makes me tick in the coding world!</h2>
 
 
