@@ -51,4 +51,4 @@ Find all my certifications [here](https://github.com/Alishba-Siddique/Certificat
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alishba-siddique&show_icons=true&locale=en" alt="alishba-siddique" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishba-siddique&" alt="alishba-siddique" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Siddique&" alt="alishba-siddique" /></p>
