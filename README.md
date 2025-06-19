@@ -5,7 +5,7 @@
 
 - 👩‍💻 All of my projects are available at [https://alishbasiddique.vercel.app/](https://alishbasiddique.vercel.app/)
 
-- 📧 How to reach me **alishbasiddique38@gmail.com**
+- 📧 How to reach me **alishbasiddique07@gmail.com**
 - ☎ **+(92) 3219431478**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1OEvEUdVPhFXge6-v9OhepoPG2mXAaB9g/view?usp=drive_link)
