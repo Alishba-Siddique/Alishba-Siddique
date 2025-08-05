@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alishba-Siddique</h1>
-<h2 align="center">I'm a <b>Software Engineer<b> from PUCIT with a passion for <strong>AI, Web dev, and problem-solving</strong>.<br />I love exploring new technologies and building scalable solutions.</h2>
-<h2 align="center"> Let's dive into what makes me tick in the coding world!</h2>
+<h1 align="center">Hi 👋, I'm Alishba Siddique</h1>
+<h2 align="center">I'm a <b>Full Stack Software Engineer</b> from PUCIT, passionate about <strong>building scalable web solutions, AI-driven applications, and performance optimization</strong>.<br />I thrive on turning ideas into impactful products using modern frameworks and clean architecture.</h2>
+<h2 align="center">Let's dive into my world of code, creativity, and problem-solving!</h2>
 
 
 - 👩‍💻 All of my projects are available at [https://alishbasiddique.vercel.app/](https://alishbasiddique.vercel.app/)
