@@ -8,7 +8,7 @@
 - 📧 How to reach me **alishbasiddique07@gmail.com**
 - ☎ **+(92) 3219431478**
 
-- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1EogbUZq7i6IiB1iMlVl2QwfKHPkHeXut/view?usp=sharing])
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1EogbUZq7i6IiB1iMlVl2QwfKHPkHeXut/view?usp=sharing)
 
 - ⚡ Fun fact **I keep going and celebrating for others until it's my turn...**
 
