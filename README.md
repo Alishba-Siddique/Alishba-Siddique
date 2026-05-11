@@ -63,76 +63,68 @@ Find all my certifications [here](https://github.com/Alishba-Siddique/Certificat
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alishba-Siddique)](https://git.io/streak-stats) -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Alishba%20Siddique&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
-<h1 align="center">Hi 👋, I'm Alishba Siddique</h1>
+  <h3> 💻 Full Stack Software Engineer | PUCIT '23 Alumni </h3>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/alishba-siddique" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://alishbasiddique.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="mailto:alishbasiddique07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+### 📖 Executive Summary
+Passionate **Full Stack Software Engineer** graduated from **PUCIT**. I specialize in building scalable web solutions and AI-driven applications. My focus lies in **performance optimization** and turning complex problems into clean, architectural code.
+
+- 🔭 **Current Focus:** Advanced Web Architectures with **Next.js** & **Tailwind CSS**.
+- 🎓 **Education:** Bachelor's in Software Engineering (PUCIT, 2019-2023).
+- ⚡ **Philosophy:** "I keep going and celebrating for others until it's my turn..."
+
+---
+
+### 🛠️ Professional Skill Set
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **CMS/Low-Code**| ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92278F?style=flat-square&logo=elementor&logoColor=white) |
+
+---
+
+### 💼 Experience & Leadership
+
+*   ✨ **HTF Trainee** – Specialized in PHP & Laravel backend ecosystems.
+*   🎮 **Mindstorm Studios Fellow** – HyperCausal Game Development (Unity/C#).
+*   🚀 **GDSC PUCIT Management Lead** – Spearheaded community tech events.
+*   🏆 **Societies Coordinator** – Managed Sports, Literary, and Event Management societies at PUCIT.
+
+---
+
+### 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;AI-Driven+Solutions+Architect;Performance+Optimization+Expert;PUCIT+Alumni+'23" alt="Typing SVG" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alishba-Siddique&show_icons=true&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Siddique&theme=radical&hide_border=false" />
 </p>
 
-<h3 align="center">
-  Building scalable web solutions & impactful products with clean architecture.
-</h3>
-
 <p align="center">
-  <a href="https://linkedin.com/in/alishba-siddique" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alishba Siddique" /></a>
-  <a href="mailto:alishbasiddique07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://alishbasiddique.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Siddique&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 👩‍💻 **Recent Project:** Check out my latest work at [alishbasiddique.vercel.app](https://alishbasiddique.vercel.app/)
-- 🎓 **Education:** BSc Software Engineering from **PUCIT** (2019 - 2023)
-- 💼 **Experience:** HCC Technology Foundation Trainee (PHP/Laravel) & Mindstorm Studios Fellow (Unity/C#)
-- ⚡ **Fun Fact:** I keep going and celebrating for others until it's my turn...
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WP" />
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alishba-Siddique&theme=radical&no-frame=true&column=4" />
 </p>
 
----
-
-### 🏆 Leadership & Societies
-
-- 🏅 **Management Lead** | GDSC PUCIT (2021 - 2022)
-- 🏀 **Sports Coordinator** | PUCIT Sports Society
-- 🖋️ **Executive Body** | PUCIT Literary Society
-- 📅 **Event Organizer** | Event Management Society
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alishba-Siddique&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Siddique&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Siddique&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### ✍️ Thought of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
-<p align="center">
-  <b>Let's code something awesome together! 💻🚀</b>
+<p align="center"> 
+  <b>Let's build something impactful together!</b> <br />
+  📧 alishbasiddique07@gmail.com | ☎ +(92) 3219431478
 </p>
