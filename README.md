@@ -62,80 +62,183 @@ Find all my certifications [here](https://github.com/Alishba-Siddique/Certificat
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alishba-Siddique)](https://git.io/streak-stats) -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Alishba%20Siddique&fontSize=70&animation=fadeIn" />
-
-  <h1>🚀 Full Stack Software Engineer</h1>
-  <p><b>PUCIT Alumni '23 | Passionate about Scalable Web Solutions & AI-driven Applications</b></p>
-
-  <p>
-    <a href="https://linkedin.com/in/alishba-siddique" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://alishbasiddique.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="mailto:alishbasiddique07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://drive.google.com/file/d/1EogbUZq7i6IiB1iMlVl2QwfKHPkHeXut/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
-  </p>
-</div>
-
----
-
-### 👩‍💻 About Me
-I am a Full Stack Software Engineer from **PUCIT** who thrives on turning ideas into impactful products using modern frameworks and clean architecture. I specialize in performance optimization and building scalable web solutions.
-
-- 🌍 All of my projects are available at [alishbasiddique.vercel.app](https://alishbasiddique.vercel.app/)
-- 📞 Contact: **+(92) 3219431478**
-- ⚡ **Fun fact:** I keep going and celebrating for others until it's my turn...
-
----
-
-### 🛠️ Technical Skills
-
-| Category | Badges |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
-| **Tools/CMS** | ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) |
-
----
-
-### 💼 Experience & Training
-- 🚀 **HCC Technology Foundation Trainee (HTF):** Focused on PHP & Laravel (Sep 2022 - Dec 2022).
-- 🎮 **Mindstorm Studios Fellow:** HyperCausal Game Development with Unity (July 2021 - Oct 2021).
-- 🌟 **GDSC PUCIT Management Lead:** Led community initiatives (2021 - 2022).
-- 🏅 **Sports Society Coordinator:** Managed sports events and teams (2021 - 2022).
-- 🖋️ **Executive Body:** PUCIT Literary Society (2021 - 2022).
-- 📅 **Event Organizer:** Event Management Society PUCIT (2022 - 2023).
-
----
-
-### 🎓 Education & Certs
-- 🎓 **Bachelor's in Software Engineering:** Faculty of Computing & Information Technology (PUCIT), University of the Punjab (2019-2023).
-- 🏫 **F.Sc. (Pre-Engineering):** Lahore College for Women University (2018).
-- 🏆 **Certifications:** View all credentials [here](https://github.com/Alishba-Siddique/Certificates#certificates).
-
----
-
-### 📊 GitHub Analytics
 <p align="center">
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Alishba-Siddique&theme=radical&show_icons=true&hide_border=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Alishba-Siddique&theme=radical&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Alishba%20Siddique&fontSize=70&animation=twinkling" alt="Alishba Siddique profile header" />
+</p>
+
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hi there!, I am 
+        <b><a target="_blank" href="https://linkedin.com/in/alishba-siddique">Alishba Siddique</a></b>
+    </samp>
+</h3>
+
+<p align="center">
+<samp>
+「 Full Stack Software Engineer specializing in scalable web solutions, AI-driven apps, and MERN stack 」  
+</samp>
 </p>
 
 <p align="center">
-<img width="70%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alishba-Siddique&theme=radical&hide_border=true&layout=compact" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Next.js+%26+Tailwind+Expert;MERN+Stack+Specialist;PUCIT+Alumni+'23" 
+    alt="Typing SVG" 
+  />
 </p>
 
-### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alishba-Siddique&theme=radical&no-frame=true" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXJ3bmZ5Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z3B3Z/L1R1QHUR4WWg79GSHv/giphy.gif" width="400" alt="Animated coding visual">
+</p>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Alishba-Siddique)
+
+---
+
+### 🛠 Technologies & Skill Stack
+
+<table border="0" align="center" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: LANGUAGES & FRAMEWORKS -->
+<td width="50%" valign="top" align="center">
+
+<h3>💻 Development</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/></td>
+  </tr>
+</table>
+
+</td>
+
+<!-- RIGHT: DATABASES & TOOLS -->
+<td width="50%" valign="top" align="center">
+
+<h3>⚙️ Ecosystem</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="35"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35"/></td>
+  </tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Alishba-Siddique)
+
+### 💼 Experience & Leadership
+
+<table width="100%" border="0">
+<tr>
+<td width="60%" valign="top">
+
+- 🚀 **HTF Trainee** | Specialized in PHP & Laravel (2022)
+- 🎮 **Game Dev Fellow** | Mindstorm Studios (Unity/HyperCausal)
+- 🌟 **GDSC PUCIT** | Management Lead (2021-2022)
+- 🏆 **Sports Society** | Coordinator & Event Organizer
+
+</td>
+<td width="40%" valign="top">
+
+- 🎓 **BSc Software Engineering** | PUCIT (2019-2023)
+- 🏫 **F.Sc Pre-Engineering** | LCWU (2018)
+- 📜 **Certifications** | [Full Credentials Here](https://github.com/Alishba-Siddique/Certificates)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Vital Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Siddique&theme=radical&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Alishba-Siddique&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alishba-Siddique&theme=radical&no-frame=true&column=4" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I’m open to collaborating on:
+<ul>
+  <li>Full-stack Web Applications (MERN/Next.js)</li>
+  <li>AI-integrated platforms</li>
+  <li>Performant Frontend Architectures</li>
+  <li>Scalable Backend Systems</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h2>📫 Get In Touch</h2>
+
+<a href="https://alishbasiddique.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-alishbasiddique.vercel.app-36BCF7?style=for-the-badge&logo=vercel" />
+</a>
+<br><br>
+<a href="mailto:alishbasiddique07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-alishbasiddique07@gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+<br><br>
+<a href="https://linkedin.com/in/alishba-siddique">
+  <img src="https://img.shields.io/badge/LinkedIn-Alishba--Siddique-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+⚡ <i>Fun fact: I keep going and celebrating for others until it's my turn...</i>
 </p>
 
-<h2 align="center">Let's code something awesome together! 💻🚀</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
